@@ -1,0 +1,42 @@
+.paginaInicial{
+	margin-top: 150px;
+	
+}
+
+.paginaInicial h1{
+	font-size: 20px;
+}
+
+.paginaInicial input{
+	margin-bottom: 10px;
+}
+
+.paginaInicial .col-md-6:nth-child(1) h1{
+	color: red;
+}
+
+.título{
+	margin: 30px;
+	text-align: center;
+}
+
+.formulario{
+	margin: 30px auto; /* auto centraliza*/
+	width: 50%;
+	
+}
+
+.formulario input[type= "text"],
+.formulario select,
+.formulario textarea{
+	margin-bottom: 10px;
+}
+
+.formulario textarea{
+	height: 150px; /* define um tamanho para caixa de texto */
+	resize: none; /* tira a opção de aumentar a caixa de texto */
+}
+
+.tabela{
+	margin-top: 100px;
+}
